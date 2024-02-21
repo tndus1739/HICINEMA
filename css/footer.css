@@ -6,7 +6,7 @@ body {
 footer{
 	color:#787878 !important;
   background-color: #cdcdcd !important;
-  position: absolute !important;
+  /* position: absolute !important; */
   bottom:0 ;
   width: 100%;
   /* position: relative !important; */
